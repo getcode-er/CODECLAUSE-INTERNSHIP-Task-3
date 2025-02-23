@@ -2,6 +2,7 @@
 
 
 **Project Title -**  Customer Segmentation Tool
+
 **Internship Domain -** Data Science Intern
 
 **Project Details -**
